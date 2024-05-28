@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer in SaudiArabia</h3>
 - 🔭 I’m currently working on [RafRaf Front-End using Next.js](RafRaf.com)
 
-- 🌱 I’m currently learning **Refine Framework** **Nest.js**
+- 🌱 I’m currently learning **Refine Framework** & **Nest.js**
 
 - 👯 I’m looking to collaborate on [CRM whatsApp Soultion](whatsappweb.js)
 
