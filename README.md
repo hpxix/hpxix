@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [OCCP 1.6j]((https://github.com/hpxix/OCPP-websocket))
 
-- 💬 Ask me about **React, Next, TypeScript, Python, OCPP, OSI15118**
+- 💬 Ask me about **React, Next, TypeScript, Python, OCPP, ISO15118**
 
 - 📫 How to reach me **altahan-hs@hotmail.com**
 
