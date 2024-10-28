@@ -13,7 +13,7 @@
 - 📫 How to reach me **altahan-hs@hotmail.com**
 
 
-<h3 align="left">Main Sills</h3>
+<h3 align="left">Main Skills</h3>
 
   <div align="left">
     <img src="https://skillicons.dev/icons?i=py,next,ts,nest,express,docker" />
