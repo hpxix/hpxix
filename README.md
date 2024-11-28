@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan Altahan</h1>
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGIxbWhjZndxMHExYzJ2cGE5cTgybjB0c3Iyemdiem1yODRjeG5oaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gsuUjoEBmLrNBxC/giphy.webp">
+<img align="right" alt="coding" width="400" src="">
 <h3 align="center">A passionate Software Engineer in SaudiArabia</h3>
 - 🔭 I’m currently working on EV Charging FullStack Application using OCPP PROTOCOL
 
