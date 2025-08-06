@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer in SaudiArabia</h3>
 - 🔭 I’m currently working as a CTO For Huddle up a sports company and building an investment platform.
 
-- 🎋 I’m currently learning **Investors Platform in Saudi Arabia** using **TypeScript** & **Python** **next.js**
+- 🎋 I’m currently working on **Investors Platform in Saudi Arabia** using **TypeScript** & **Python** **next.js**
 
 
 - 👯 I’m looking to collaborate on [OCCP 1.6j]((https://github.com/hpxix/OCPP-websocket))
